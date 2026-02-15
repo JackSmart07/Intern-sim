@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/OfficeTest.umap",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/_GENERATED/rubyg/CubeGridToolOutput_935789F4.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/PlayerSlop/Player.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/Gamemode.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/_GENERATED/rubyg/CubeGridToolOutput_79E8B5C7.uasset"
+			]
+		}
+	]
+}
