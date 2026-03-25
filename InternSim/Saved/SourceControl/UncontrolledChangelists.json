@@ -15,9 +15,13 @@
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_Paper.uasset",
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_Toy.uasset",
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_Stapler.uasset",
-				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_GiftBox.uasset",
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/assets/paperstack.uasset",
-				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/assets/stapler.uasset"
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/assets/stapler.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/WBP_Inventory.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/WBP_PickupItem.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BPI_PickupItem.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/EnemySlop/BP_EmployeeParent.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_GiftBox.uasset"
 			]
 		}
 	]
