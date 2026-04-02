@@ -28,6 +28,8 @@
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/GlobalSlop/BPI_Globals.uasset",
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/GlobalSlop/Globals.uasset",
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/GlobalSlop/WBP_Timer.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/EnemySlop/BP_PickupZone.uasset",
+				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_PickupParent.uasset",
 				"C:/Users/rubyg/Documents/GitHub/Intern-sim/InternSim/Content/SimpleInventory/BP_GiftBox.uasset"
 			]
 		}
